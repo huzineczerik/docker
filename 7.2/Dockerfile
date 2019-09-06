@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Norbert Mozsar <mozsarn@5net.hu>
+MAINTAINER Erik Huzinecz <erik.huzinecz@silinfo.hu>
 
 # apache
 RUN apt-get update && \
